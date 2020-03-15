@@ -1,10 +1,3 @@
-# AudioVideoAnalysis 
-
-Version: 	   0.2  
-Created date:  2007-01-01  
-Modified date: 2007-01-01    
-
-
 ## Description
 
 Realtime analysis of audio and video. 
@@ -37,3 +30,4 @@ http://www.gnu.org/copyleft/gpl.html
 ## History
 
 v0.1: First working version
+v0.4: 2010 release
