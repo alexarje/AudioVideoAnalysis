@@ -9,6 +9,8 @@ Features:
 - Press the escape button to toggle fullscreen mode
 
 
+![AudioVideoAnalysis](https://github.com/fourMs/AudioVideoAnalysis/raw/master/documentation/AudioVideoAnalysis.png)
+
 ## Requirements
 
 - [Max](cycling74.com/products/maxmspjitter/) from Cycling '74
