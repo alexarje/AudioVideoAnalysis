@@ -10,7 +10,7 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 87.0, 96.0, 1120.0, 632.0 ],
+		"rect" : [ 252.0, 118.0, 1120.0, 632.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 0,
 		"default_fontsize" : 12.0,
@@ -44,7 +44,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 945.833333333333258, 433.0, 150.0, 75.0 ],
+					"patching_rect" : [ 945.833333333333258, 433.0, 154.0, 75.0 ],
 					"text" : "First we print the mg based on the absences of red cells in the sg, then we print the green sg cells on top."
 				}
 
@@ -180,12 +180,13 @@
 , 			{
 				"box" : 				{
 					"id" : "obj-13",
+					"linecount" : 2,
 					"maxclass" : "newobj",
 					"numinlets" : 2,
 					"numoutlets" : 2,
 					"outlettype" : [ "jit_matrix", "" ],
-					"patching_rect" : [ 386.070778000000246, 398.0, 105.083333333333314, 22.0 ],
-					"text" : "jit.glue @rows 2"
+					"patching_rect" : [ 386.070778000000246, 398.0, 105.083333333333314, 36.0 ],
+					"text" : "jit.glue @rows 2 @syncinlet 0"
 				}
 
 			}
@@ -222,7 +223,7 @@
 					"maxclass" : "inlet",
 					"numinlets" : 0,
 					"numoutlets" : 1,
-					"outlettype" : [ "" ],
+					"outlettype" : [ "jit_matrix" ],
 					"patching_rect" : [ 644.320778000000246, 55.0, 30.0, 30.0 ]
 				}
 
