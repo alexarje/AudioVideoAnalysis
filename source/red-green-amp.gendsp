@@ -241,7 +241,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "" ],
 					"patching_rect" : [ 261.0, 162.0, 100.0, 22.0 ],
-					"text" : "param thresh 0.5"
+					"text" : "param thresh 0.8"
 				}
 
 			}
