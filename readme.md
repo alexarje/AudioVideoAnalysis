@@ -4,17 +4,16 @@
 
 A standalone application for realtime spectral analysis of audio and video. 
 
-Features:
+## Features
 
 - Draws a spectrogram from any connected microphone
 - Draws a motiongram/videogram from any connected camera
 - Press the escape button to toggle fullscreen mode
 
-## Credits
+## Developers
 
-Developers: [Alexander Refsum Jensenius](http://people.uio.no/alexanje), [Aleksander Tidemann](https://github.com/AleksanderTidemann)
+[Alexander Refsum Jensenius](http://people.uio.no/alexanje), [Aleksander Tidemann](https://github.com/AleksanderTidemann)
 
-The software is currently maintained by the [fourMs lab](https://github.com/fourMs) at [RITMO Centre for Interdisciplinary Studies in Rhythm, Time and Motion](https://www.uio.no/ritmo/english/) at the University of Oslo.
 
 ## Reference
 
