@@ -1,11 +1,6 @@
 # AudioVideoAnalysis 
 
-Version: 	   0.2  
-Created date:  2007-01-01  
-Modified date: 2007-01-01    
-
-
-## Description
+![AudioVideoAnalysis](https://github.com/fourMs/AudioVideoAnalysis/raw/master/documentation/AudioVideoAnalysis-1.0-ui.jpg)
 
 Realtime analysis of audio and video. 
 
@@ -14,11 +9,6 @@ Features:
 - Draws a spectrogram from any connected microphone
 - Draws a motiongram/videogram from any connected camera
 - Press the escape button to toggle fullscreen mode
-
-
-## Requirements
-
-- [Max](cycling74.com/products/maxmspjitter/) from Cycling '74
 
 
 ## Author ##
@@ -31,9 +21,3 @@ University of Oslo, Department of Musicology, fourMs lab
 
 Released under the GPL license
 http://www.gnu.org/copyleft/gpl.html
-
-
-
-## History
-
-v0.1: First working version
