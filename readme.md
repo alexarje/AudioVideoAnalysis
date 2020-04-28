@@ -1,39 +1,28 @@
 # AudioVideoAnalysis 
 
-Version: 	   0.2  
-Created date:  2007-01-01  
-Modified date: 2007-01-01    
+![AudioVideoAnalysis](https://github.com/fourMs/AudioVideoAnalysis/raw/master/documentation/AudioVideoAnalysis-1.0-ui.jpg)
 
+A standalone application for realtime spectral analysis of audio and video. 
 
-## Description
-
-Realtime analysis of audio and video. 
-
-Features:
+## Features
 
 - Draws a spectrogram from any connected microphone
 - Draws a motiongram/videogram from any connected camera
 - Press the escape button to toggle fullscreen mode
 
+## Developers
 
-## Requirements
-
-- [Max](cycling74.com/products/maxmspjitter/) from Cycling '74
+[Alexander Refsum Jensenius](http://people.uio.no/alexanje), [Aleksander Tidemann](https://github.com/AleksanderTidemann)
 
 
-## Author ##
+## Reference
 
-Alexander Refsum Jensenius --- http://www.arj.no  
-University of Oslo, Department of Musicology, fourMs lab
+If you use this toolbox for research purposes, please reference this publication: 
+
+- Jensenius, Alexander Refsum (2005). [Developing Tools for Studying Musical Gestures within the Max/MSP/Jitter Environment](https://www.duo.uio.no/handle/10852/26907). Proceedings of the International Computer Music Conference, p. 282-285. 
 
 
 ## License
 
 Released under the GPL license
 http://www.gnu.org/copyleft/gpl.html
-
-
-
-## History
-
-v0.1: First working version
